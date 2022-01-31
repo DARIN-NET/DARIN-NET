@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @DARIN-NET
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning c#
-- 📫 How to reach me Contact me on Instagram
+
